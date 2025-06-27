@@ -1,3 +1,0 @@
-# CLIP-Captioning-Model
-
-This project aims to recreate an image captioning system by leveraging the power of two state-of-the-art models: CLIP (Contrastive Language–Image Pretraining) by OpenAI and GPT-2 (Generative Pre-trained Transformer 2). The system combines the vision-language understanding capabilities of CLIP with the generative language modeling strengths of GPT-2 to generate accurate and contextually relevant captions for images. CLIP is used to encode visual information into a semantic space, while GPT-2 generates natural language descriptions based on the encoded features.
